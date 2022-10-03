@@ -1,0 +1,19 @@
+.caja{
+    display:flex;
+}
+.texto{
+    position: absolute;
+    top: 750px;
+    left: 10%;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(17, 21, 26);    
+}
+.intro_tag{
+    background-color: red;
+    color: black;
+    padding: 0.25em;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
